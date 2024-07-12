@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	zapi "github.com/kgeroczi/go-zabbix-api"
+	zapi "github.com/dickieh/go-zabbix-api"
 )
 
 var (
